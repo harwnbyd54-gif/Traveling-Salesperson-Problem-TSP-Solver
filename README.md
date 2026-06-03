@@ -1,3 +1,4 @@
+<img width="1382" height="1155" alt="__results___0_1" src="https://github.com/user-attachments/assets/42dc3786-df12-4b8f-828a-588af7e50420" />
 # 📍 Neon Light-Path Grid
 ## *An Optimized 2D Traveling Salesperson Problem (TSP) Solver*
 
